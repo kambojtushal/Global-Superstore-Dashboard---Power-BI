@@ -186,12 +186,11 @@ Data Collection → Data Cleaning → Data Modeling → DAX Calculations → Das
 
 ```
 Global-Superstore-Sales-Profit-Dashboard/
-│
-├── Global_Superstore_Dashboard.pbix     # Power BI project file
-├── README.md                            # Project documentation (this file)
-├── /screenshots                         # Dashboard preview images
-    └── dashboard_overview
-dictionary
+|
+|-- Global_Superstore_Dashboard.pbix     # Power BI project file
+|-- README.md                            # Project documentation (this file)
+`-- screenshots/                         # Dashboard preview images
+    `-- dashboard_overview
 ---
 ---
 ## 🚀 Future Improvements
