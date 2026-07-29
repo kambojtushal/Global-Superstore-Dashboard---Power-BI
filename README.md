@@ -236,7 +236,8 @@ Aspiring Data Analyst | Power BI • SQL • Python <br>
 📧 kambojtushal@gmail.com | <br>
 <br>
 🔗 https://www.linkedin.com/in/tushal-kamboj | <br>
-💻 https://github.com/kambojtushal
+<br>
+💻 https://github.com/kambojtushal <br>
 
 ---
 
