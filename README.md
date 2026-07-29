@@ -233,7 +233,7 @@ Global-Superstore-Sales-Profit-Dashboard/
 **Tushal Kamboj**<br>
 Aspiring Data Analyst | Power BI • SQL • Python <br>
 <br>
-📧 kambojtushal@gmail.com | <br>
+📧 kambojtushal01@gmail.com | <br>
 <br>
 🔗 https://www.linkedin.com/in/tushal-kamboj | <br>
 <br>
