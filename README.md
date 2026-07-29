@@ -190,9 +190,15 @@ Global-Superstore-Sales-Profit-Dashboard/
 |-- Global_Superstore_Dashboard.pbix     # Power BI project file
 |-- README.md                            # Project documentation (this file)
 `-- screenshots/                         # Dashboard preview images
-    `-- dashboard_overview
+    `-- dashboard_overview.png
+```
+
+<br>
+
 ---
----
+
+<br>
+
 ## 🚀 Future Improvements
 
 - Add a dedicated drill-through page for country-level and product-level deep dives
@@ -215,10 +221,10 @@ Global-Superstore-Sales-Profit-Dashboard/
 ---
 
 ## 🖼️ Screenshots
-<img width="635" height="353" alt="image" src="https://github.com/user-attachments/assets/353c77e8-932a-474f-892e-25947357c68e" />
-<img width="623" height="354" alt="image" src="https://github.com/user-attachments/assets/6d60457b-a68a-4acf-8945-901ba22d4858" />
-<img width="640" height="353" alt="image" src="https://github.com/user-attachments/assets/55d6bd38-a80b-4700-bfdc-1326ed112acb" />
-<img width="619" height="347" alt="image" src="https://github.com/user-attachments/assets/752185b9-3f2b-454b-aeb3-71783456b907" />
+<img width="635" height="353" alt="Screenshot 2026-07-29 185435" src="https://github.com/user-attachments/assets/d1d9bc8c-3bf3-4e32-a749-0043a37bfb76" />
+<img width="623" height="354" alt="Screenshot 2026-07-29 185546" src="https://github.com/user-attachments/assets/7ea9d75c-0ded-4564-ac14-79c15a6438a4" />
+<img width="640" height="353" alt="Screenshot 2026-07-29 185644" src="https://github.com/user-attachments/assets/2a172636-712d-4286-92bc-1e7ac08a2140" />
+<img width="619" height="347" alt="Screenshot 2026-07-29 185717" src="https://github.com/user-attachments/assets/b232611b-51a4-4d78-92ae-5a817acefe49" />
 
 ---
 
@@ -226,13 +232,15 @@ Global-Superstore-Sales-Profit-Dashboard/
 
 **Tushal Kamboj**
 Aspiring Data Analyst | Power BI • SQL • Python
-📧 kambojtushal740@gmail.com | 🔗 https://www.linkedin.com/in/tushal-kamboj | 💻 https://github.com/kambojtushal
+📧 kambojtushal@gmail.com | 🔗 https://www.linkedin.com/in/tushal-kamboj | 💻 https://github.com/kambojtushal
 
 ---
 
 ## ✅ Conclusion
 
 This project demonstrates the full lifecycle of business intelligence dashboard development — from raw data to a polished, insight-driven Power BI report. It reflects practical, job-ready skills in data modeling, DAX, and visual storytelling that are directly transferable to real-world data analyst and BI developer roles. Recruiters and hiring managers can use this project as evidence of the candidate's ability to independently take a raw dataset and turn it into a decision-support tool for business stakeholders.
+
+---
 
 ---
 
