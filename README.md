@@ -221,9 +221,9 @@ Global-Superstore-Sales-Profit-Dashboard/
 ---
 
 ## 🖼️ Screenshots
-<img width="635" height="353" alt="Screenshot 2026-07-29 185435" src="https://github.com/user-attachments/assets/d1d9bc8c-3bf3-4e32-a749-0043a37bfb76" />
-<img width="623" height="354" alt="Screenshot 2026-07-29 185546" src="https://github.com/user-attachments/assets/7ea9d75c-0ded-4564-ac14-79c15a6438a4" />
-<img width="640" height="353" alt="Screenshot 2026-07-29 185644" src="https://github.com/user-attachments/assets/2a172636-712d-4286-92bc-1e7ac08a2140" />
+<img width="619" height="347" alt="Screenshot 2026-07-29 185435" src="https://github.com/user-attachments/assets/d1d9bc8c-3bf3-4e32-a749-0043a37bfb76" />
+<img width="619" height="347" alt="Screenshot 2026-07-29 185546" src="https://github.com/user-attachments/assets/7ea9d75c-0ded-4564-ac14-79c15a6438a4" />
+<img width="619" height="347" alt="Screenshot 2026-07-29 185644" src="https://github.com/user-attachments/assets/2a172636-712d-4286-92bc-1e7ac08a2140" />
 <img width="619" height="347" alt="Screenshot 2026-07-29 185717" src="https://github.com/user-attachments/assets/b232611b-51a4-4d78-92ae-5a817acefe49" />
 
 ---
