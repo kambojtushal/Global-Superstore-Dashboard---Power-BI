@@ -230,9 +230,13 @@ Global-Superstore-Sales-Profit-Dashboard/
 
 ## 👤 Author
 
-**Tushal Kamboj**
-Aspiring Data Analyst | Power BI • SQL • Python
-📧 kambojtushal@gmail.com | 🔗 https://www.linkedin.com/in/tushal-kamboj | 💻 https://github.com/kambojtushal
+**Tushal Kamboj**<br>
+Aspiring Data Analyst | Power BI • SQL • Python <br>
+<br>
+📧 kambojtushal@gmail.com | <br>
+<br>
+🔗 https://www.linkedin.com/in/tushal-kamboj | <br>
+💻 https://github.com/kambojtushal
 
 ---
 
