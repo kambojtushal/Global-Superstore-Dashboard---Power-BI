@@ -190,7 +190,8 @@ Global-Superstore-Sales-Profit-Dashboard/
 ├── Global_Superstore_Dashboard.pbix     # Power BI project file
 ├── README.md                            # Project documentation (this file)
 ├── /screenshots                         # Dashboard preview images
-     └── dashboard_overview
+    └── dashboard_overview
+dictionary
 ---
 ---
 ## 🚀 Future Improvements
