@@ -237,7 +237,7 @@ Aspiring Data Analyst | Power BI • SQL • Python <br>
 <br>
 🔗 https://www.linkedin.com/in/tushal-kamboj | <br>
 <br>
-💻 https://github.com/kambojtushal <br>
+💻 https://github.com/kambojtushal |<br>
 
 ---
 
