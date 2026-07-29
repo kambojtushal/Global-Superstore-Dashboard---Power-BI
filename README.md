@@ -190,10 +190,7 @@ Global-Superstore-Sales-Profit-Dashboard/
 ├── Global_Superstore_Dashboard.pbix     # Power BI project file
 ├── README.md                            # Project documentation (this file)
 ├── /screenshots                         # Dashboard preview images
-│   └── dashboard_overview.png
-└── /docs                                # (Optional) supporting notes, data dictionary
-```
-
+│   └── dashboard_overview
 ---
 
 ## 🚀 Future Improvements
@@ -218,98 +215,24 @@ Global-Superstore-Sales-Profit-Dashboard/
 ---
 
 ## 🖼️ Screenshots
-
-> Add exported dashboard images here for visual reference.
-
-```
-/screenshots/dashboard_overview.png
-```
-
-*(Placeholder — replace with actual exported screenshots of the Power BI report page.)*
+<img width="635" height="353" alt="image" src="https://github.com/user-attachments/assets/353c77e8-932a-474f-892e-25947357c68e" />
+<img width="623" height="354" alt="image" src="https://github.com/user-attachments/assets/6d60457b-a68a-4acf-8945-901ba22d4858" />
+<img width="640" height="353" alt="image" src="https://github.com/user-attachments/assets/55d6bd38-a80b-4700-bfdc-1326ed112acb" />
+<img width="619" height="347" alt="image" src="https://github.com/user-attachments/assets/752185b9-3f2b-454b-aeb3-71783456b907" />
 
 ---
 
 ## 👤 Author
 
-**[Your Name]**
+**Tushal Kamboj**
 Aspiring Data Analyst | Power BI • SQL • Python
-📧 [your-email@example.com] | 🔗 [LinkedIn Profile] | 💻 [GitHub Profile]
+📧 kambojtushal740@gmail.com | 🔗 https://www.linkedin.com/in/tushal-kamboj | 💻 https://github.com/kambojtushal
 
 ---
 
 ## ✅ Conclusion
 
 This project demonstrates the full lifecycle of business intelligence dashboard development — from raw data to a polished, insight-driven Power BI report. It reflects practical, job-ready skills in data modeling, DAX, and visual storytelling that are directly transferable to real-world data analyst and BI developer roles. Recruiters and hiring managers can use this project as evidence of the candidate's ability to independently take a raw dataset and turn it into a decision-support tool for business stakeholders.
-
----
-
-## 📎 Additional Portfolio Materials
-
-<details>
-<summary><strong>1. GitHub Repository Description (under 350 characters)</strong></summary>
-
-> Interactive Power BI dashboard analyzing the Global Superstore dataset — sales, profit, market, and shipping performance across countries and regions. Built with DAX, Power Query, and data modeling to deliver KPI tracking and business insights for stakeholder decision-making.
-
-</details>
-
-<details>
-<summary><strong>2. GitHub Topics/Tags (20)</strong></summary>
-
-`power-bi` `powerbi-dashboard` `data-analysis` `data-visualization` `business-intelligence` `dax` `power-query` `data-modeling` `sales-analysis` `profit-analysis` `kpi-dashboard` `global-superstore` `bi-dashboard` `data-analytics` `dashboard-design` `retail-analytics` `data-driven-decisions` `analytics-portfolio` `power-bi-project` `interactive-dashboard`
-
-</details>
-
-<details>
-<summary><strong>3. LinkedIn Project Description (250–350 words)</strong></summary>
-
-Excited to share my latest project: a **Global Superstore Sales & Profit Analysis Dashboard**, built entirely in Power BI! 📊
-
-This project takes the well-known Global Superstore dataset and transforms it into a single-page, interactive business intelligence dashboard designed to help stakeholders make faster, data-backed decisions.
-
-The dashboard tracks four core KPIs — Total Sales, Total Profit, Total Orders, and Total Quantity — and pairs them with nine purpose-chosen visualizations: a bar chart for country-level sales comparison, a ribbon chart to track category rank changes month-over-month, a combo chart comparing quarterly sales against profit, a funnel chart ranking market profitability, a donut chart for category sales mix, a treemap for quantity sold by market, a pie chart breaking down shipping cost by customer segment, a year-over-year trend line, and a scatter chart comparing regional profitability.
-
-To make the dashboard genuinely exploratory rather than static, I added four slicers — Quarter, Market, Region, and Ship Mode — so any stakeholder can filter the entire report to their specific area of interest in seconds.
-
-On the technical side, this project involved:
-🔹 Data cleaning and transformation in Power Query
-🔹 Data modeling with a Date Hierarchy for time intelligence
-🔹 Writing DAX measures for all core KPIs
-🔹 Selecting the right chart type for each business question
-🔹 Designing a clean, recruiter-and-stakeholder-friendly single-page layout
-
-The goal wasn't just to visualize data — it was to tell a business story: which markets are profitable versus just high-volume, where category performance shifts seasonally, and where shipping costs are disproportionately impacting certain customer segments.
-
-This project reinforced how much of good BI work happens *before* the dashboard — in the data modeling and DAX layer — and how important it is to match visualization choice to the underlying analytical question.
-
-Full project (including the .pbix file and documentation) is on my GitHub — link in the comments/profile. Feedback and suggestions are always welcome! 🙌
-
-#PowerBI #DataAnalytics #BusinessIntelligence #DataVisualization #DAX #DataAnalysis
-
-</details>
-
-<details>
-<summary><strong>4. Resume Project Description (ATS-friendly, 4–5 bullets)</strong></summary>
-
-**Global Superstore Sales & Profit Analysis Dashboard | Power BI, DAX, Power Query**
-
-- Designed and developed an interactive Power BI dashboard analyzing global sales, profit, and shipping data across 4+ dimensions (Country, Market, Region, Segment) using the Global Superstore dataset.
-- Authored DAX measures (Total Sales, Total Profit, Total Orders, Total Quantity) and built a Date Hierarchy data model to support time-intelligence analysis at year, quarter, and month granularity.
-- Built 9 distinct visualizations (bar, ribbon, combo, funnel, donut, treemap, pie, line, scatter charts) to surface profitability gaps, category trends, and regional performance variances.
-- Implemented 4 interactive slicers (Quarter, Market, Region, Ship Mode) enabling real-time, multi-dimensional filtering and cross-highlighting across all report visuals.
-- Translated dashboard findings into actionable business insights covering market profitability, category seasonality, and shipping cost distribution by customer segment.
-
-</details>
-
-<details>
-<summary><strong>5. Portfolio Project Description (~200 words)</strong></summary>
-
-The Global Superstore Sales & Profit Analysis Dashboard is a single-page, interactive Power BI report built on the Global Superstore transactional dataset. It was designed to answer the core questions any retail business stakeholder needs answered quickly: which countries and markets are driving profitable growth, how product categories perform across the year, and where shipping costs are impacting margins by customer segment.
-
-The dashboard surfaces four headline KPIs — Total Sales, Total Profit, Total Orders, and Total Quantity — supported by nine purpose-built visuals, including a funnel chart for market profitability ranking, a ribbon chart for category rank changes over time, and a quarterly combo chart comparing sales against profit. Four slicers (Quarter, Market, Region, Ship Mode) make the report fully interactive, letting users drill into any combination of filters in real time.
-
-Behind the visuals, the project involved cleaning and shaping the data in Power Query, building a time-intelligence-ready data model with a custom Date Hierarchy, and writing DAX measures to power every KPI card. The result is a recruiter-ready demonstration of end-to-end BI development — from raw data to a polished, decision-support dashboard — showcasing practical skills in Power BI, DAX, data modeling, and business storytelling.
-
-</details>
 
 ---
 
