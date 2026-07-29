@@ -192,6 +192,7 @@ Global-Superstore-Sales-Profit-Dashboard/
 ├── /screenshots                         # Dashboard preview images
 │   └── dashboard_overview
 ---
+---
 
 ## 🚀 Future Improvements
 
