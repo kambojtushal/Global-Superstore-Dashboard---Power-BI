@@ -244,7 +244,6 @@ Aspiring Data Analyst | Power BI • SQL • Python <br>
 This project demonstrates the full lifecycle of business intelligence dashboard development — from raw data to a polished, insight-driven Power BI report. It reflects practical, job-ready skills in data modeling, DAX, and visual storytelling that are directly transferable to real-world data analyst and BI developer roles. Recruiters and hiring managers can use this project as evidence of the candidate's ability to independently take a raw dataset and turn it into a decision-support tool for business stakeholders.
 
 ---
-
 ---
 
 ⭐ *If you found this project useful or interesting, consider giving the repository a star!*
